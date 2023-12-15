@@ -1,0 +1,1 @@
+sad - The Unblockable AdBlocker
