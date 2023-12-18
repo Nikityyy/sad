@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*doubleclick.net/*"
+        }
+    },
+    {
+        "id": 2,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*googleadservices.com/*"
+        }
+    },
+	{
+        "id": 3,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*adfarm1.adition.com/*"
+        }
+    },
+	{
+        "id": 4,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*adnxs.com/*"
+        }
+    },
+	{
+        "id": 5,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*bannersnack.com/*"
+        }
+    },
+	{
+        "id": 6,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*amazon-adsystem.com/*"
+        }
+    },
+	{
+        "id": 7,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*antiadblocksystems.com/*"
+        }
+    },
+	{
+        "id": 8,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*ybs2ffs7v.com/*"
+        }
+    },
+	{
+        "id": 9,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*fvcwqkkqmuv.com/*"
+        }
+    },
+	{
+        "id": 10,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*fvcwqkkqmuv.com/*"
+        }
+    },
+	{
+        "id": 11,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*adservice.google.com/*"
+        }
+    },
+	{
+        "id": 12,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*amazonaws.com/*"
+        }
+    },
+	{
+        "id": 13,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*advertising-api-eu.amazon.com/*"
+        }
+    },
+	{
+        "id": 14,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*adcolony.com/*"
+        }
+    },
+	{
+        "id": 15,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*google-analytics.com/*"
+        }
+    },
+	{
+        "id": 16,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*mouseflow.com/*"
+        }
+    },
+	{
+        "id": 17,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*bugsnag.com/*"
+        }
+    },
+	{
+        "id": 18,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://pixel.facebook.com/*"
+        }
+    },
+	{
+        "id": 19,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://an.facebook.com/*"
+        }
+    },
+	{
+        "id": 20,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://ad.xiaomi.com/*"
+        }
+    },
+	{
+        "id": 21,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*12ezo5v60.com/*"
+        }
+    },
+	{
+        "id": 22,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*forlumineoner.com/*"
+        }
+    },
+	{
+        "id": 23,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*ybuduzpe.com/*"
+        }
+    },
+	{
+        "id": 24,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*kjfhenoqfyfljo.com/*"
+        }
+    },
+	{
+        "id": 25,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*pgjlctmswgnwf.com/*"
+        }
+    },
+	{
+        "id": 26,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*ads.youtube.com/*"
+        }
+	},
+	{
+        "id": 27,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "lanund.js"
+        }
+    },
+	{
+        "id": 28,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "interads"
+        }
+    },
+	{
+        "id": 29,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*adskeeper.com/*"
+        }
+    },
+	{
+        "id": 30,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*rkgwzfwjgk.com/*"
+        }
+    },
+	{
+        "id": 31,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*mobilesecuremail.com/*"
+        }
+    },
+	{
+        "id": 32,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*waiseph.com/*"
+        }
+    },
+	{
+        "id": 33,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*orgotitedu.com/*"
+        }
+    },
+	{
+        "id": 34,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*ammannests.com/*"
+        }
+    },
+	{
+        "id": 35,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*seemyresume.org/*"
+        }
+    },
+	{
+        "id": 36,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*eakelandorders.org/*"
+        }
+    },
+	{
+        "id": 37,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*renhadmasandbab.info/*"
+        }
+    },
+	{
+        "id": 38,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*ghabovethec.info/*"
+        }
+    },
+	{
+        "id": 39,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*//orgotitedu.info/*"
+        }
+    },
+	{
+        "id": 40,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*rts-blue-4.com/*"
+        }
+    },
+	{
+        "id": 41,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*revolvemockerycopper.com/*"
+        }
+    },
+	{
+        "id": 42,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*addresseepaper.com/*"
+        }
+    },
+	{
+        "id": 43,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*dismantlepenantiterrorist.com/*"
+        }
+    },
+	{
+        "id": 44,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*pmcrkqab.com/*"
+        }
+    },
+	{
+        "id": 45,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*simplewebanalysis.com/*"
+        }
+    },
+	{
+        "id": 46,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*jwplayer.com/*"
+        }
+    },
+	{
+        "id": 47,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "popper.min.js"
+        }
+    },
+	{
+        "id": 48,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*adforcast.com/*"
+        }
+    },
+	{
+        "id": 49,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*optnx.com/*"
+        }
+    },
+	{
+        "id": 50,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*milittlevouchers.com/*"
+        }
+    },
+	{
+        "id": 51,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*srvtrck.com/*"
+        }
+    },
+	{
+        "id": 52,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*gmxvmvptfm.com/*"
+        }
+    },
+	{
+        "id": 53,
+        "priority": 1,
+        "action": {
+            "type": "block"  
+        },
+        "condition": {
+            "urlFilter": "*://*mscoldness.com/*"
+        }
+    },
+	{
+        "id": 54,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "adManager.js"
+        }
+    },
+	{
+        "id": 55,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*suozmtcc.com/*"
+        }
+    },
+	{
+        "id": 56,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*vsmokhklbw.com/*"
+        }
+    },
+	{
+        "id": 57,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*zxwhkosabux.com/*"
+        }
+    },
+	{
+        "id": 58,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*specialisthuge.com/*"
+        }
+    },
+	{
+        "id": 59,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*push-sdk.net/*"
+        }
+    },
+	{
+        "id": 60,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*s0cool.net/*"
+        }
+    },
+	{
+        "id": 61,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*discovernative.com/*"
+        }
+    },
+	{
+        "id": 62,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*googlesyndication.com/*"
+        }
+    },
+	{
+        "id": 63,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*contalyze.com/*"
+        }
+    },
+	{
+        "id": 64,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://* chaturbate.com/*"
+        }
+    },
+	{
+        "id": 65,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*plainphilosophy.com/*"
+        }
+    },
+	{
+        "id": 66,
+        "priority": 1,
+        "action": {
+            "type": "block" 
+        },
+        "condition": {
+            "urlFilter": "*://*paikoasa.tv/*"
+        }
+    },
+	{
+        "id": 67,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*wolfstream.tv/images/ads/123movies.jpg/*"
+        }
+    },
+	{
+        "id": 68,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*123-movies.bz/*"
+        }
+    },
+	{
+        "id": 69,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "customAnnouncement"
+        }
+    },
+	{
+        "id": 70,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*taboola.com/*"
+        }
+    }
+]
