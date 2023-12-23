@@ -10,7 +10,7 @@ Introducing **sad - The Unblockable AdBlocker**, a revolutionary tool designed t
 
 ## Reporting Issues
 
-Encountering instances where certain websites slip through the traditional ad-blocking filters? With sad, you have the ultimate solution. Simply navigate to [sad Issues](https://github.com/Nikityyy/sad/issues) and report any problematic websites to ensure continuous improvement and an even more comprehensive ad-blocking experience.
+Encountering instances where certain websites slip through the traditional ad-blocking filters? With sad, you have the ultimate solution. Simply navigate to [Issues](https://github.com/Nikityyy/sad/issues) and report any problematic websites to ensure continuous improvement and an even more comprehensive ad-blocking experience.
 
 ## Community
 
