@@ -1518,5 +1518,308 @@
         "condition": {
             "urlFilter": "*://*AdHandler.aspx/*"
         }
+    },
+	{
+        "id": 153,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*trafficjunky.net/*"
+        }
+    },
+	{
+        "id": 154,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*pornhub.com/_xa/*"
+        }
+    },
+	{
+		"id": 155,
+		"priority": 1,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": [
+				"*://*trafficjunky.com/*",
+				"!*://*trafficjunky.com/ab/ads_test.js*"
+			]
+		}
+	},
+	{
+        "id": 156,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "adLinks"
+        }
+    },
+	{
+        "id": 157,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "adsbytrafficjunky"
+        }
+    },
+	{
+        "id": 158,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*<video loop*"
+        }
+    },
+	{
+        "id": 159,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*<img data-title=*"
+        }
+    },
+	{
+        "id": 160,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*afcdn.net/*"
+        }
+    },
+	{
+        "id": 161,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*trafficfactory.biz/*"
+        }
+    },
+	{
+        "id": 162,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*vcmdiawe.com/*"
+        }
+    },
+	{
+        "id": 163,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*xhamster.com/stripchat/*"
+        }
+    },
+	{
+        "id": 164,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*zblkqa.com/*"
+        }
+    },
+	{
+        "id": 165,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*tsyndicate.com/*"
+        }
+    },
+	{
+        "id": 166,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*faphouse.com/*"
+        }
+    },
+	{
+        "id": 167,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*xhcdn.com/promo/*"
+        }
+    },
+	{
+        "id": 168,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*zemanta.com/*"
+        }
+    },
+	{
+        "id": 169,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*bing.com/api/v1/mediation/tracking*"
+        }
+    },
+	{
+        "id": 170,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*outbrainimg.com/*"
+        }
+    },
+	{
+        "id": 171,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*bing.com/th?*"
+        }
+    },
+	{
+        "id": 172,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*otSDKStub.js"
+        }
+    },
+	{
+        "id": 173,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*av-journal.com/de/v4/index.html*"
+        }
+    },
+	{
+        "id": 174,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*outbrain.com/*"
+        }
+    },
+	{
+        "id": 175,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*btloader.com/*"
+        }
+    },
+	{
+        "id": 176,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*scorecardresearch.com/*"
+        }
+    },
+	{
+        "id": 177,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*intraArticleModule*"
+        }
+    },
+	{
+        "id": 178,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*native_banner*"
+        }
+    },
+	{
+        "id": 179,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*native-banner*"
+        }
+    },
+	{
+        "id": 180,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*rtbsuperhub.com/*"
+        }
+    },
+	{
+        "id": 181,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*vntsm.com/*"
+        }
+    },
+	{
+        "id": 182,
+        "priority": 1,
+        "action": {
+            "type": "block"
+        },
+        "condition": {
+            "urlFilter": "*://*justservingfiles.net/*"
+        }
     }
 ]

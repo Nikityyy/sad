@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "sad",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "permissions": [
     "declarativeNetRequest",
     "activeTab"
@@ -26,9 +26,9 @@
       "id": "{2f7a14da-e1c4-4cd1-94d0-bc14c95072ab}",
       "strict_min_version": "113.0"
     },
-    "chrome": {
-      "id": "{2f7a14da-e1c4-4cd1-94d0-bc14c95072ab}"
-    }
+	"safari": {
+	  "strict_min_version": "14"
+  }
   },
   "action": {
     "default_popup": "popup.html",
