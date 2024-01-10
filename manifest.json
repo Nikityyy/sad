@@ -1,6 +1,7 @@
 {
   "manifest_version": 3,
   "name": "sad",
+  "description": "sad - The Unblockable AdBlocker: Shielding users from intrusive ads with relentless efficiency, Sad delivers an ad-free online experience that's impervious to blockers, ensuring uninterrupted browsing joy.",
   "version": "1.2.1",
   "permissions": [
     "declarativeNetRequest",
