@@ -1836,7 +1836,7 @@
       "type": "block"
     },
     "condition": {
-      "urlFilter": "*://*aternos.org/panel/img/*"
+      "urlFilter": "*://*aternos.org/panel/img/exaroton.svg*"
     }
   },
   {
@@ -2376,7 +2376,7 @@
       "type": "block"
     },
     "condition": {
-      "urlFilter": "*://*cloudfront.net*"
+      "urlFilter": "*://*TESTTESTTEST*"
     }
   },
   {
@@ -2497,6 +2497,36 @@
     },
     "condition": {
       "urlFilter": "*://*staticmoly.me*"
+    }
+  },
+  {
+    "id": 251,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://*aternos.org/panel/img/replacements*"
+    }
+  },
+  {
+    "id": 252,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://*criteo.com*"
+    }
+  },
+  {
+    "id": 253,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*://*carbonads.net*"
     }
   }
 ]

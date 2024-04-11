@@ -7,12 +7,11 @@
     <style>
       body {
         width: 250px;
-        height: 240px;
+        height: 300px;
         margin: 0;
         font-family: 'Arial', sans-serif;
         background-color: #fff;
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-        border-radius: 12px;
         padding: 10px;
         padding-bottom: 50px;
         padding-left: 30px;
@@ -92,25 +91,66 @@
 
       #rulesetImage {
         height: 60px;
-        transition: opacity 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
         opacity: 1;
       }
+	  
+	  #rulesetImage:hover {
+		transform: scale(1.06);
+	  }
 
       #textField {
         transition: opacity 0.3s ease-in-out;
       }
+	  
+	  #input-button, #remove-all {
+	  	cursor: pointer;
+		font-weight: bold;
+		color: #fff;
+		border-radius: 35px;
+		border: 1.5px solid black;
+		padding: 6px;
+		transition: all 0.3s ease-in-out;
+		text-align: center;
+		font-size: 13px;
+	  }
+	  
+	  #input-button {
+		background-color: #2F7AE5;
+		margin-bottom: 7px;
+	  }
+	  
+	  #remove-all {
+		background-color: #E10902;
+	  }
+	  
+	  #input-button:hover, #remove-all:hover {
+		transform: scale(1.05);
+	  }
+	  
+	  #input-button:active {
+		background-color: #439CEF;
+	  }
+	  
+	  #remove-all:active {
+	    background-color: #FF0602
+	  }
     </style>
   </head>
-  <body>
-    <h4>sad - The Unblockable AdBlocker</h4>
-    <p>
-      <b>What?</b>
-      <br>Not all websites are being blocked? Send the link to <a href="https://github.com/Nikityyy/sad" target="_blank">sad</a> and report the problem.
-    </p>
-    <button class="disable-ruleset-button">
-      <img id="rulesetImage" src="images/enabled-image.png" alt="Disable Ruleset">
-    </button>
-    <h3 id="textField">Stop blocking</h3>
-    <script src="popup.js"></script>
-  </body>
-</html>
+	<body>
+	  <h4>sad - The Unblockable AdBlocker</h4>
+	  <p>
+		<b>What?</b>
+		<br>Not all websites are being blocked? Send the link to <a href="https://github.com/Nikityyy/sad" target="_blank">sad</a> and report the problem.
+	  </p>
+	  <button id="add-ruleset-button" class="disable-ruleset-button">
+		<img id="rulesetImage" src="images/enabled-image.png" alt="Add Ruleset">
+	  </button>
+	  <h3 id="textField">Stop blocking</h3>
+	  <label id="input-button" for="file-input">Import a filter-list:</label>
+	  <input type="file" id="file-input">
+	  <button id="remove-all">Remove all filter-lists</button>
+	  <script src="popup.js"></script>
+	  <script src="popup2.js"></script>
+	</body>
+	</html>
